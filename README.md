@@ -1,7 +1,3 @@
-# 💫 About Me:
-SQL<br>PostgreSQL<br>Python<br>Pandas<br>NumPy<br>Matplotlib<br>Power BI<br>DAX<br>Microsoft Excel<br>Data Cleaning<br>Exploratory Data Analysis (EDA)<br>Data Visualization<br>Statistical Analysis<br>Business Analysis<br>Dashboard Development<br>Machine Learning (Basics)<br>
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/soham-dhoble/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sohamdhoble0000@gmail.com) 
 
